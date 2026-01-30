@@ -1,4 +1,4 @@
-## sparkjava-war-example-Sai-- also satya katta changed the code
+## sparkjava-war-example-satya
 Build war with maven and sparkjava framework
 
 Steps:--
